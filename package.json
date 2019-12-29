@@ -1,0 +1,19 @@
+{
+  "name": "nodelabkkaushi1",
+  "version": "0.1.0",
+  "description": "NodeLab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkaushi1/NodeLab.git"
+  },
+  "author": "kkaushi1 <kkaushi1@bechtel.com> (https://kkaushi1.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkaushi1/NodeLab/issues"
+  },
+  "homepage": "https://github.com/kkaushi1/NodeLab#readme"
+}
